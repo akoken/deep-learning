@@ -1,2 +1,2 @@
 # Deep Learning
-This repository contains deep learning examples with PyTorch.
+This repository contains my deep learning exercises with PyTorch.
